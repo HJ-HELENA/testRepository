@@ -19,7 +19,7 @@
 	<a href="#">링크또추가</a>
 	
 	<a href="#">링크를 또 추가함</a>
-	<p>충돌 정리</p>
+	<a href="#">user2 추가</a>
 </body>
 </html>
 

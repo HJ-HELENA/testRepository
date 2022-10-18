@@ -22,6 +22,7 @@
 	<a href="#">user2 추가</a>
 	<p>test01에 작업진행함</p>
 	<a href="#">asfi</a>
+	<p>일하기 싫어 로또되게 해주세요</p>
 	
 </body>
 </html>
